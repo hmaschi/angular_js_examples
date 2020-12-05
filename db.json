@@ -2,8 +2,13 @@
     "posts": [
       {
         "id": 1,
-        "title": "hello"
+        "title": "Lenovo"
+      },
+      {
+        "id": 2,
+        "title": "Motorola"
       }
+
     ],
     "profile": {
       "name": "typicode"
